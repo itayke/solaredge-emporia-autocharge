@@ -33,6 +33,18 @@ EMPORIA_USER='emporia_user_email'
 EMPORIA_PASSWORD='emporia_password'
 ```
 
+### Getting a SolarEdge API Key
+To get a SolarEdge API key, follow these steps:
+1. Log in to your SolarEdge monitoring account.
+2. Click the Admin link in the top menu.
+3. Select the Site Access tab.
+4. Activate API access.
+5. Check the box to agree to the terms and conditions.
+6. Click the New Key button.
+7. Click Save.
+8. Copy the API key and Site ID.
+Note: This is a v1 API key which may change in the future
+
 ## Usage
 To see the available command line arguments, run the script with the `help` flag:
 ```sh
