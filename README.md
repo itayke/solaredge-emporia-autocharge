@@ -29,7 +29,7 @@ Create a `.env` file in the root directory and add your API keys and configurati
 ```env
 SOLAREDGE_SITE=site_number
 SOLAREDGE_KEY='site_key'
-EMPORIA_USER='emporia_username_email'
+EMPORIA_USER='emporia_user_email'
 EMPORIA_PASSWORD='emporia_password'
 ```
 
