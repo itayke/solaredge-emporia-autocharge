@@ -44,7 +44,7 @@ To get a SolarEdge API key, follow these steps:
 7. Click Save.
 8. Copy the API key and Site ID.
 
-Note: This is a v1 API key which may change in the future
+Note: This is a v1 API key which may change in the future.
 
 ## Usage
 To see the available command line arguments, run the script with the `help` flag:
