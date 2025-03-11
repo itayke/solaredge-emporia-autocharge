@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+emporia-access.json
+.DS_Store
+/.archive
