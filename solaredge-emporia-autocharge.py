@@ -1,4 +1,12 @@
-#!/usr/bin/python3
+#!/usr/bin/python
+
+# SolarEdge/Emporia EV Solar Charging Maximizer
+# Copyright (C) 2025 Itay Keren
+
+# This script connects to SolarEdge's and Emporia's global API through preset login credentials located at .env, 
+# and continuously maximize Emporia's EV charging capacity to use the available solar power, without drawing from the grid.
+# Note that this script will never stop charging altogether and therefore a minimum charge of 6 amps will always be used. (I may fix this in the future.)
+
 import time
 from datetime import datetime
 import sys
